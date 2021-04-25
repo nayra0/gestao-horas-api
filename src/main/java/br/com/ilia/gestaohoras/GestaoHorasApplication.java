@@ -1,4 +1,4 @@
-package br.com.ilia.gestaohoras.gestaohoras;
+package br.com.ilia.gestaohoras;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
